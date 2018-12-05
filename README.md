@@ -1,4 +1,4 @@
-# PipeCNN
+# PipeCNN_v3.8
 
 ## About 
 **PipeCNN** is an OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks (CNNs).
